@@ -2,7 +2,7 @@
 
 
 <p align="center">
- <img src="https://github.com/OrhanEfendi/muhsinayaz/blob/main/tal.gif" width="250px">
+ <img src="https://raw.githubusercontent.com/muhsinayaz/muhsinayaz/main/tal.gif" width="250px">
 </p>
 
 <!--
