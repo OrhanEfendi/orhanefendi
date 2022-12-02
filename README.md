@@ -44,6 +44,11 @@ Hi there
 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-python-1c3c5f?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-R-2e8e99?style=for-the-badge&logo=R&logoColor=white" alt="R"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> </a>
+
+
+🤖 Artificial Intelligence
+
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"/> </a>
 
 
