@@ -23,7 +23,7 @@ Hi there
 <a href="https://github.com/OrhanEfendi/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 </h2>
 
-- 🌱 I’m currently learning <strong> Rrtificial Intelligence and Front-End.</strong>
+- 🌱 I’m currently learning <strong> Artificial Intelligence and Front-End.</strong>
 - 💬 Ask me about anything.
 - 📫 How to reach me: efendi.orkhan.f@gmail.com
 - 🌍 I'm based in <strong> Turkey.</strong>
